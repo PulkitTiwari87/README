@@ -1,52 +1,92 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-###
+<h3 align="center">
+I'm <b>Pulkit Tiwari</b> — a Full Stack Developer & Computer Science student 🚀
+</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<p align="center">
+Building scalable web apps • Exploring AI, Cloud & Security • Turning ideas into impact
+</p>
 
-###
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Second-year **Computer Science student**
+- 💻 **Full Stack Web Developer** (MERN, CMS-driven apps)
+- ☁️ Interested in **AI, Cloud Computing & Cybersecurity**
+- 🌱 Constant learner who loves clean code & real-world problem solving
+- 🌍 Passionate about **social-impact technology**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,go,rust" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,figma,wordpress" height="60"/>
 </div>
 
-###
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **Disaster Support Platform** – Chatbot-based emergency response system  
+- 🔹 **G-DriveX** – Google Drive unification & file management platform  
+- 🔹 **CMS-powered React Website** – Fully dynamic content using WordPress ACF  
+- 🔹 **Social Media Platform (MERN)** – Instagram-like scalable application  
+
+➡️ *Check out my repositories to see more cool stuff!*
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_USERNAME&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_USERNAME&layout=compact&theme=dracula" height="150"/>
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 🔥 GitHub Streak & Achievements
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_NEW_USERNAME&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_NEW_USERNAME&theme=dracula&row=1&column=6"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pulkittiwari51">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tpulkittiwari87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<p align="center">
+⚡ Fun fact: I enjoy combining creativity with code to build things that matter.
+</p>
+
+---
+
+## 🔁 Previous Profile
+
+> 🗂️ **My previous GitHub profile was:**  
+> **PulkitTiwari51**
+
+---
+
+⭐ *If you like my work, consider starring a repository — it really helps!*
