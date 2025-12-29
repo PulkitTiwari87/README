@@ -67,7 +67,7 @@ Building scalable web apps • Exploring AI, Cloud & Security • Turning ideas 
   <a href="https://www.linkedin.com/in/pulkittiwari51">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tpulkittiwari87@gmail.com">
+  <a href="mailto:tpulkit87@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
