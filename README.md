@@ -1,105 +1,52 @@
-%-------------------------
-% Profile Summary - LaTeX
-% Author : Pulkit Tiwari
-%-------------------------
+<h1 align="center">Hey 👋What's Up?</h1>
 
-\documentclass[a4paper,11pt]{article}
+###
 
-% Packages
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage{enumitem}
-\usepackage{xcolor}
-\usepackage[hidelinks]{hyperref}
-\usepackage{tabularx}
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-% Page style
-\pagestyle{empty}
+###
 
-% Section formatting
-\titleformat{\section}{
-  \large\bfseries
-}{}{0em}{}[\titlerule]
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-% Spacing
-\setlist[itemize]{noitemsep, topsep=2pt}
+###
 
-\begin{document}
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-%====================
-% Header
-%====================
-\begin{center}
-    {\LARGE \textbf{Pulkit Tiwari}} \\[4pt]
-    Second-year Computer Science Student \\[2pt]
-    Full Stack Web Developer \;|\; AI \& Cloud Enthusiast \\[6pt]
-    \href{mailto:tpulkittiwari87@gmail.com}{tpulkittiwari87@gmail.com} \;|\;
-    \href{https://www.linkedin.com/in/pulkittiwari51}{LinkedIn} \;|\;
-    \href{https://github.com/PulkitTiwari51}{GitHub}
-\end{center}
+###
 
-\vspace{6pt}
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-%====================
-% About Me
-%====================
-\section*{About Me}
-
-Motivated Computer Science student with hands-on experience in full-stack development,
-API integration, and CMS-driven platforms. Passionate about building scalable,
-secure, and impactful applications. Strong interests include artificial intelligence,
-cloud technologies, cybersecurity, and socially responsible tech solutions.
-
-\vspace{4pt}
-
-%====================
-% Tech Stack
-%====================
-\section*{Tech Stack}
-
-\textbf{Languages:} JavaScript, Python, Java, C, SQL \\[2pt]
-\textbf{Frontend:} React.js, Tailwind CSS, HTML5, CSS3, GSAP, Framer Motion \\[2pt]
-\textbf{Backend:} Node.js, Express.js, REST APIs \\[2pt]
-\textbf{Databases:} MySQL, MongoDB, PostgreSQL, Redis \\[2pt]
-\textbf{Tools \& Platforms:} Git, GitHub, Postman, VS Code, Figma, WordPress (Headless), Strapi CMS \\[2pt]
-\textbf{Security:} JWT, OAuth, OWASP, Burp Suite, Nmap, Metasploitable
-
-\vspace{4pt}
-
-%====================
-% Featured Projects
-%====================
-\section*{Featured Projects}
-
-\begin{itemize}
-  \item \textbf{Disaster Support Platform} — Chatbot-based emergency assistance system
-  \item \textbf{G-DriveX} — Google Drive unification and management platform
-  \item \textbf{React Portfolio Website} — Fully dynamic CMS-powered website
-  \item \textbf{Social Media Platform (MERN)} — Scalable Instagram-like application
-\end{itemize}
-
-\vspace{4pt}
-
-%====================
-% Experience & Leadership
-%====================
-\section*{Experience \& Leadership}
-
-\begin{itemize}
-  \item \textbf{Full Stack Web Developer Intern} — Weblicious
-  \item \textbf{Public Relations Core Team Member} — Cloud Security Alliance (CSA)
-  \item \item \textbf{Technical Core Team Member} — Hypervision
-  \item \textbf{AI Internship} — TEACHNOOK \(\times\) IIT Roorkee
-\end{itemize}
-
-\vspace{4pt}
-
-%====================
-% Currently Learning
-%====================
-\section*{Currently Learning}
-
-Advanced MERN Stack, System Design Fundamentals, Cloud \& DevOps Basics,
-Secure Application Development
-
-\end{document}
+###
