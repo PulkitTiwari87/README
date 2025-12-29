@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <h3 align="center">
-I'm <b>Pulkit Tiwari</b> — a Full Stack Developer & Computer Science student 🚀
+I'm <b>Pulkit Tiwari</b> — a Full Stack Developer || Cyber-security Engineer 🚀
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Building scalable web apps • Exploring AI, Cloud & Security • Turning ideas 
 
 ## 🧑‍💻 About Me
 
-- 🎓 Second-year **Computer Science student**
+- 🎓 Third-year **Computer Science student**
 - 💻 **Full Stack Web Developer** (MERN, CMS-driven apps)
 - ☁️ Interested in **AI, Cloud Computing & Cybersecurity**
 - 🌱 Constant learner who loves clean code & real-world problem solving
@@ -36,8 +36,6 @@ Building scalable web apps • Exploring AI, Cloud & Security • Turning ideas 
 
 ## 🚀 Featured Projects
 
-- 🔹 **Disaster Support Platform** – Chatbot-based emergency response system  
-- 🔹 **G-DriveX** – Google Drive unification & file management platform  
 - 🔹 **CMS-powered React Website** – Fully dynamic content using WordPress ACF  
 - 🔹 **Social Media Platform (MERN)** – Instagram-like scalable application  
 
